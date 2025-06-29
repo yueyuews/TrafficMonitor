@@ -21,6 +21,7 @@ public:
      */
     virtual const wchar_t* GetItemId() const = 0;
 
+    
     /**
      * @brief   获取项目标签的文本
      * @return  const wchar_t*
